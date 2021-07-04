@@ -1,1 +1,1 @@
-Sidereal Game Engine (for OpenGL)
+# Sidereal Game Engine (for OpenGL)

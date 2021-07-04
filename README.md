@@ -1,1 +1,1 @@
-# sideral-engine-opengl
+Sidereal Game Engine (for OpenGL)
